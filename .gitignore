@@ -1,0 +1,11 @@
+build.sh
+/env
+/build
+/dist
+*.egg*
+*.pyc
+__pycache__
+/*/__pycache__
+/*.py
+!/setup.py
+/.ignorefolder
